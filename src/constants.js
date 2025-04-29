@@ -172,7 +172,7 @@ export const SkillsInfo = [
 img: iiitaLogo,  // Replace with your IIITA logo image
 school: "Indian Institute of Information Technology Allahabad",
 date: "Nov 2022 - Present",
-grade: "7.83",  // You can replace this with your current CGPA or expected grade
+grade: "N/A",  // You can replace this with your current CGPA or expected grade
 desc: "Currently pursuing my Bachelor's degree in Electronics and Communication from the prestigious Indian Institute of Information Technology Allahabad (IIITA). Throughout my time here, I have been exposed to core concepts in programming, algorithms, data structures, networking, and systems design. I have actively engaged in various academic projects, hackathons, and internships, which have helped me strengthen my technical problem-solving and software development skills. IIITA has not only enhanced my theoretical knowledge but also provided valuable hands-on experience in cutting-edge technologies.",
 degree: "Bachelor of Technology(BTech)"
 
