@@ -53,6 +53,7 @@ import trackingLogo from './assets/work_logo/tracking.png';
 import noteLogo from './assets/work_logo/note.png';
 import cicdLogo from './assets/work_logo/cicd.png';
 import BDALogo from './assets/work_logo/bda.png';
+import trackvestoLogo from './assets/work_logo/trackvesto.png';
 
 
 export const SkillsInfo = [
@@ -292,5 +293,14 @@ degree: "Senior Secondary (12th Grade)",
       tags: ["Next JS", "Node.js", "Prisma", "PostgresSQL", "Stripe", "TypeScript"],
       github: "https://github.com/alokgusain06/IntelliForms.com",
       webapp: "",
+    }, {
+      id: 8,
+      title: "TrackVesto",
+      description:
+        "TrackVesto is an AI-driven platform for smart expense tracking and financial insights. ",
+      image: trackvestoLogo,
+      tags: ["Next JS", "Node.js", "Prisma", "PostgresSQL", "Arcjet", "inngest", "GeminiApi"],
+      github: "https://github.com/alokgusain06/TrackVesto",
+      webapp: "https://track-vesto.vercel.app/",
     }
   ];
