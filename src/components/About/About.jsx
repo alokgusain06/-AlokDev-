@@ -34,14 +34,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-6 md:mb-10 mt-8 leading-relaxed">
-            I'm a 3rd-year B.Tech student at IIITA with a passion for full-stack development. I enjoy building
-            scalable and efficient web applications and have experience working on real-world projects, focusing
-            on both front-end and back-end development. My goal is to create impactful solutions that offer seamless
-            user experiences.
+           I'm a 4th-year B.Tech student at IIITA, passionate about full-stack development and creating scalable, user-centric web applications.Deeply curious about system architecture and internals — I enjoy exploring low-level systems, reading research papers, and uncovering how things work beneath the abstractions.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1BX29TfVVEV7h2ZNJuke2hYz643lsDG0n/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1Orbz4ffGo1agl9nY55KCJRmepYKbH8lS/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
